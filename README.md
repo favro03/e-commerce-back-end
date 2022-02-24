@@ -11,6 +11,11 @@
   
 
 ## Installation
+See this video on installation and usage:
+
+https://www.awesomescreenshot.com/video/7584462?key=d8b743ccce6df41d68073eb18607559d
+
+
 Clone the repo.  then follow the following prompts: 
 npm init 
 npm install mysql2 sequelize express dotenv
